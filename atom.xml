@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://pyj2333.github.io</id>
+    <id>http://pyj2333.github.com</id>
     <title>FizzPu</title>
-    <updated>2020-11-28T12:09:50.570Z</updated>
+    <updated>2020-11-28T12:18:23.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://pyj2333.github.io"/>
-    <link rel="self" href="http://pyj2333.github.io/atom.xml"/>
+    <link rel="alternate" href="http://pyj2333.github.com"/>
+    <link rel="self" href="http://pyj2333.github.com/atom.xml"/>
     <subtitle>无论是王侯将相, 还是贩夫走卒, 都不过是沧海一粟罢了. 唯有记录, 才能留下些许回忆.</subtitle>
-    <logo>http://pyj2333.github.io/images/avatar.png</logo>
-    <icon>http://pyj2333.github.io/favicon.ico</icon>
+    <logo>http://pyj2333.github.com/images/avatar.png</logo>
+    <icon>http://pyj2333.github.com/favicon.ico</icon>
     <rights>All rights reserved 2020, FizzPu</rights>
 </feed>
