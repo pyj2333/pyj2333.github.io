@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pyj2333.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-11-28T11:14:56.650Z</updated>
+    <title>FizzPu</title>
+    <updated>2020-11-28T11:24:40.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pyj2333.github.io"/>
     <link rel="self" href="https://pyj2333.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>无论是王侯将相, 还是贩夫走卒, 都不过是沧海一粟罢了. 唯有记录, 才能留下些许回忆.</subtitle>
     <logo>https://pyj2333.github.io/images/avatar.png</logo>
     <icon>https://pyj2333.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, FizzPu</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://pyj2333.github.io/post/hello-gridea/</id>
